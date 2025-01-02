@@ -1,0 +1,7 @@
+Fastapi
+torch
+youtube-transcript-api 
+nltk 
+transformers
+fastapi[all]
+uvicorn
