@@ -45,8 +45,10 @@ QueryTube is a Chrome extension that allows users to directly talk to the creato
    - The answer, along with the video title, will be displayed in the extension popup.
 
 ## Demo
- [image](https://github.com/user-attachments/assets/91a07a0a-330b-4b72-9363-ddc820b4159e)
+ 
+![image](https://github.com/user-attachments/assets/fddd0b40-1386-4a49-9d54-623ae7603d6b)
 
 
- [image-1](https://github.com/user-attachments/assets/b8e70188-b06c-420e-9247-d1c508b66642)
+ ![image-1](https://github.com/user-attachments/assets/aa104b2b-1614-4c38-aa68-388c00489985)
+
 
